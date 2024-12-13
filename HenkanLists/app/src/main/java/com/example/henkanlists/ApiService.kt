@@ -4,6 +4,7 @@ import com.example.henkanlists.ListaHenkan
 import com.example.henkanlists.models.User
 import retrofit2.Response
 import retrofit2.http.*
+// Atualizar conforme o necessário
 
 interface ApiService {
     // Endpoint para criar um novo usuário
